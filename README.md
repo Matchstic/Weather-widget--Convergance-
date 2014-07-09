@@ -1,4 +1,4 @@
-*Weather widget*
+**Weather widget**
 
 This is to be used as an example for creating your own widgets for Convergance.
 
